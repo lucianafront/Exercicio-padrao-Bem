@@ -1,0 +1,11 @@
+.rodape{
+    background-color: $color-default;
+    color: $color-02;
+
+    &__texto{
+        font-size: 1.2rem;
+        color: $bg-color;
+        text-align: center;
+        padding: $mb;
+    }
+}
